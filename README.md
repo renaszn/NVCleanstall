@@ -1,4 +1,4 @@
-Select "Manually" select a driver version" then select the driver version you want to use.
+Select "Manually select a driver version" then select the driver version you want to use.
 
 
 
