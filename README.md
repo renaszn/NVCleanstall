@@ -35,3 +35,8 @@ Select the options shown in the picture.
 
 
 "Installation options" select "Custom (Advanced)"
+
+
+
+![image](https://github.com/renaszn/NVCleanstall/assets/99830191/d6f106dd-3685-47dd-82d2-188ee8db205b)
+
